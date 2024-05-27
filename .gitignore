@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DVLD_Presentation/obj
+/DVLD_Presentation/bin
+/DVLD_Presentation/App.config
+/DVLD_Presentation/.vs
