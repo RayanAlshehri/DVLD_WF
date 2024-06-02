@@ -65,7 +65,7 @@ namespace DVLD_Presentation
         private void _LoadLicensesToDataTables()
         {
             _LocalLicensesDT = _Driver.GetAllLicenses();
-            _InternationalLicensesDT = clsInternationalLicense.GetAllDriverLicenses(_Driver.ID);
+            _InternationalLicensesDT = _Driver.GetAllInternationalLicenses();
             CustomizeInternationalLicenseDT();
         }
 
