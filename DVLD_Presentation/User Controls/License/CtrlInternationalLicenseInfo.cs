@@ -22,7 +22,7 @@ namespace DVLD_Presentation
 
         public void FillLicenseInfo(int InternationalLicenseID)
         {
-            clsInternationalLicense InternationalLicense = clsInternationalLicense.FindByInternationalLicenseID(InternationalLicenseID);
+            clsInternationalLicense InternationalLicense = clsInternationalLicense.Find(InternationalLicenseID);
 
             if (InternationalLicense != null )
             {
