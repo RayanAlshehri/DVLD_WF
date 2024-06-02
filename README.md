@@ -17,6 +17,8 @@ This project is a designed for managing driver and vehicle licensing. The busine
 - ADO.NET
 - SQL Server
 
+[Screenshots](https://drive.google.com/drive/folders/1oaSXtiXFKv1xoJQR5U14y7fFdY2SPD4w?usp=drive_link)
+
 ## Setup Instructions
 To download the project with all of its extensions, click [here](https://drive.google.com/drive/folders/1q0XTn3HVTAz0D0yIsY1Lasm0nrvzmRYm?usp=drive_link). Please follow the instructions in the `README.txt` file for correct setup.
 
